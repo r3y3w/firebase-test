@@ -1,3 +1,7 @@
+.firebaserc
+404.html
+firebase.json
+
 # Logs
 logs
 *.log
